@@ -1,0 +1,74 @@
+/*--------------------------- Whole Left Container --------------------------- */
+
+body
+{
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    flex-direction: row;
+}
+
+.left_container
+{
+    text-align: center;
+    width: 20%;
+    border: 2px solid black;
+}
+
+h2
+{
+    font-size: 2rem;
+}
+p
+{
+    font-size: 1.1rem;
+}
+.yash-img
+{
+    border: 3px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 0.5rem;
+}
+
+.lists
+{
+    display: flex;
+    flex-direction: column;
+}
+.lists-li
+{
+    padding: 1rem;
+    font-size: 1.2rem;
+
+}
+footer p
+{
+    margin-top: 1.2rem;
+}
+
+
+/*--------------------------- Whole Right Container --------------------------- */
+.right_container
+{
+    width: 80%;
+    margin-left: 1rem;
+}
+
+h1
+{
+    font-size: 5rem;
+}
+
+.Logo
+{
+    width: 75px;
+    height: 60px;
+    border-radius: 100%;
+}
+
+.right_down
+{
+    text-align: center;
+    margin-top: 20%;
+}
